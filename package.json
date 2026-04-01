@@ -63,5 +63,8 @@
     "uglify-es": "^3.3.9",
     "url-pattern": "^1.0.3"
   },
+    "engines": {
+      "node": "18.x"
+  },
   "main": ".eleventy.js"
 }
