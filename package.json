@@ -9,7 +9,7 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "engines": {
-    "node": ">=18"
+    "node": "18.x"
   },
   "repository": {
     "type": "git",
